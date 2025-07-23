@@ -10,8 +10,8 @@ A evasão escolar no Ensino Médio é um desafio persistente no Brasil, com impa
 
 ## Fontes de Dados
 
-- [Censo Escolar 2024](https://www.gov.br/inep/pt-br/assuntos/censo-escolar)
-- [SAEB 2023](https://www.gov.br/inep/pt-br/assuntos/saeb)
+- [Censo Escolar 2024](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar)
+- [SAEB 2023](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/saeb/resultados)
 
 Os dados utilizados incluem informações sobre:
 - Matrículas por região, estado, tipo de escola e localização
