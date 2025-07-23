@@ -32,6 +32,9 @@ Os dados utilizados incluem informações sobre:
 
 ## Estrutura do Dashboard (Looker Studio)
 
+Acesse o Dashboard Interativo
+(https://lookerstudio.google.com/reporting/f4d9b402-9cc2-4258-8072-0c148dd99e10)
+
 O relatório está dividido em 4 páginas principais:
 
 ### 1. Visão Geral
